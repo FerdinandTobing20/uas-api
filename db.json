@@ -1,0 +1,44 @@
+{
+  "users": [
+        {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "dosen01",
+      "password": "dosen123",
+      "role": "dosen"
+    },
+    {
+      "id": "3",
+      "username": "20220001",
+      "password": "mhs123",
+      "role": "mahasiswa"
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "2",
+      "nama": "Budi",
+      "nim": "654321",
+      "jurusan": "Sistem Informasi"
+    }
+  ],
+  "dosen": [
+    {
+      "id": "1",
+      "nama": "Dr. Siti",
+      "nidn": "987654",
+      "mataKuliah": "Pemrograman Web"
+    },
+    {
+      "id": "2",
+      "nama": "Dr. Agus",
+      "nidn": "876543",
+      "mataKuliah": "Basis Data"
+    }
+  ]
+}
